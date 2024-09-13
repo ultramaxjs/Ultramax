@@ -1,0 +1,16 @@
+{
+    "name": "graphql-mongodb-app",
+    "version": "1.0.0",
+    "description": "A GraphQL API with MongoDB scaffolded by power-cli",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "apollo-server-express": "^2.25.2",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "graphql-mongodb-app": "file:",
+        "mongoose": "^5.12.3"
+    }
+}

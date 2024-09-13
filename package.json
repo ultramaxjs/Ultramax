@@ -1,0 +1,43 @@
+{
+  "name": "ojus",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "Maxlaunch": "./bin/vector.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultramaxjs/Ultramax.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework",
+    "CLI",
+    "scaffolding"
+  ],
+  "author": "Allen P Binoy",
+  "license": "ISC",
+  "dependencies": {
+    "@ultramax/maxlaunch": "file:",
+    "@ultramax/Maxlaunch": "file:",
+    "commander": "^12.1.0",
+    "enquirer": "^2.4.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^10.2.2",
+    "MaxScaff": "file:",
+    "ojus": "file:",
+    "Ojus": "file:",
+    "prompts": "^2.4.2",
+    "Ultra-max": "file:",
+    "ultramax": "file:",
+    "Ultramax": "file:",
+    "Ultramax-js": "file:",
+    "ultramaxjs": "file:",
+    "Ultramaxjs": "file:",
+    "vector": "file:"
+  }
+}
